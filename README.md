@@ -168,6 +168,6 @@ Through this project, the following machine learning concepts are demonstrated:
 
 ## Author
 
-**Shivaprasad**
+**Shivaprasad m s**
 
 If you found this project useful, feel free to ⭐ star the repository and contribute with improvements.
